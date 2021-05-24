@@ -1,2 +1,2 @@
-# api-platform
+# API Platform Labs
 This GitHub repository contains my experiences with the apiplatform package. Enjoy, checking the tested fonctionnalites by switching between branches.
